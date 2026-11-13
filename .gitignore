@@ -1,0 +1,31 @@
+# Unity generated
+Library/
+Temp/
+Logs/
+obj/
+Build/
+Builds/
+UserSettings/
+
+# VS/Rider
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+
+# macOS
+.DS_Store
+
+# Unity cache
+*.pidb
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
